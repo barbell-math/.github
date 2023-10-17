@@ -1,9 +1,6 @@
 # Barbell Math
 
-<p align="center">
-  <img src="https://https://github.com/barbell-math/.github/blob/main/profile/SBDLatexArt.png?raw=true" alt="SBD Latex Art"/>
-</p>
-
+![SBD Latex art](https://github.com/barbell-math/.github/blob/main/profile/SBDLatexArt.png)
 
 An attempt to make barbell math about more than figuring out what plates should go on the bar. (Although that can be done as well)
 
